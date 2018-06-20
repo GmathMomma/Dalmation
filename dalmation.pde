@@ -7,3 +7,4 @@ while(count <= 101) {
   rect(random(width),random(height),15,15);
   count++;
 }
+//I can try to edit this. 
